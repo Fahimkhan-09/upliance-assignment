@@ -28,3 +28,5 @@ How it works
 2. Based on the reading, the system decides the heater state
 3. The heater (LED) turns ON or OFF accordingly
 4. The current temperature and state are logged to the Serial Monitor
+
+Wokwi Simulation: https://wokwi.com/projects/436786686203975681
